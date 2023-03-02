@@ -1,0 +1,38 @@
+html, body {
+    margin: 0;
+    padding: 0;
+}
+.container {
+    padding: 60px;
+    border-radius: 5px;
+    border: 20px;
+    margin: 30px;
+    background-color: #5d5d6d;
+}
+h1 {
+    color: white;
+    font-family: sans-serif;
+}
+p{
+    color: white;
+}
+span{
+    color: #35b660;
+}
+#gen-el{
+    color: white;
+    background-color: #35b660;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding: 6px;
+    border: 10px;
+    border-radius: 3px
+}
+#box{
+    color: white;
+    background-color:  #ababc2;
+    height: 20px;
+    width: 200px;
+    padding: 10px
+
+    
+}
