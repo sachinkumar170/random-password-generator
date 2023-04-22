@@ -15,9 +15,11 @@ html, body {
 }
 .upcontent{
     flex: 1;
+    width: 70%;
 }
 .downcontent{
     flex: 1;
+    width:30%;
 }
 h1 {
     color: white;
