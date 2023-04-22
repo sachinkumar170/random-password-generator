@@ -1,6 +1,7 @@
 html, body {
     margin: 0;
     padding: 0;
+    height: 100%;
 }
 .container {
     padding: 60px;
@@ -8,6 +9,7 @@ html, body {
     border: 20px;
     margin: 30px;
     background-color: #5d5d6d;
+    height: 100%;
 }
 h1 {
     color: white;
