@@ -11,6 +11,12 @@ html, body {
     background-color: #5d5d6d;
     height: 100%;
 }
+.upcontent{
+    flex: 1;
+}
+.downcontent{
+    flex: 1;
+}
 h1 {
     color: white;
     font-family: sans-serif;
