@@ -10,6 +10,8 @@ html, body {
     margin: 30px;
     background-color: #5d5d6d;
     height: 100%;
+    display: flex;
+    flex-direction: column
 }
 .upcontent{
     flex: 1;
